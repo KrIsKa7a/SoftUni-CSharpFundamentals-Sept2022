@@ -7,4 +7,5 @@
 2. [**Data Types and Variables**](https://github.com/KrIsKa7a/SoftUni-CSharpFundamentals-Sept2022/tree/main/E02.%20Data%20Types%20and%20Variables)
 3. [**Arrays**](https://github.com/KrIsKa7a/SoftUni-CSharpFundamentals-Sept2022/tree/main/E03.%20Arrays)
 4. [**Methods**](https://github.com/KrIsKa7a/SoftUni-CSharpFundamentals-Sept2022/tree/main/E04.%20Methods)
-5. [**List**](https://github.com/KrIsKa7a/SoftUni-CSharpFundamentals-Sept2022/tree/main/%D0%9505.%20List)
+5. [**List**](https://github.com/KrIsKa7a/SoftUni-CSharpFundamentals-Sept2022/tree/main/E05.%20List)
+6. [**Objects and Classes**](https://github.com/KrIsKa7a/SoftUni-CSharpFundamentals-Sept2022/tree/main/E06.%20Objects%20and%20Classes)
