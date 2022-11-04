@@ -9,3 +9,4 @@
 4. [**Methods**](https://github.com/KrIsKa7a/SoftUni-CSharpFundamentals-Sept2022/tree/main/E04.%20Methods)
 5. [**List**](https://github.com/KrIsKa7a/SoftUni-CSharpFundamentals-Sept2022/tree/main/E05.%20List)
 6. [**Objects and Classes**](https://github.com/KrIsKa7a/SoftUni-CSharpFundamentals-Sept2022/tree/main/E06.%20Objects%20and%20Classes)
+7. [**Associative Arrays**](https://github.com/KrIsKa7a/SoftUni-CSharpFundamentals-Sept2022/tree/main/E07.%20Associative%20Arrays)
